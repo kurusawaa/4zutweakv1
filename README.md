@@ -3,6 +3,8 @@
  pkg update
  
  pkg upgrade
+
+ pkg install pip
  
  pkg install python
  
