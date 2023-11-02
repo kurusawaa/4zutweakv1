@@ -1,5 +1,7 @@
 # 4zutweakv1 Installation
 
+ termux-setup-storage
+
  pkg update
  
  pkg upgrade
