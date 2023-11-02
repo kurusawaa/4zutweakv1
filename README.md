@@ -9,6 +9,8 @@
  pkg install python3
  
  pkg install wget
+
+ pip install -r requirements.txt
  
  git clone https://github.com/kurusawaa/4zutweakv1.git
  
