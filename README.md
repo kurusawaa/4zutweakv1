@@ -7,6 +7,8 @@
  pkg install pip
  
  pkg install python
+
+ pkg install git
  
  pkg install python3
  
